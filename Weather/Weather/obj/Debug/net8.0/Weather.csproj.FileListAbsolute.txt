@@ -1,0 +1,17 @@
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.AssemblyInfoInputs.cache
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.AssemblyInfo.cs
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\Weather\Weather\bin\Debug\net8.0\Weather.exe
+C:\Users\Jan\source\repos\Weather\Weather\bin\Debug\net8.0\Weather.deps.json
+C:\Users\Jan\source\repos\Weather\Weather\bin\Debug\net8.0\Weather.runtimeconfig.json
+C:\Users\Jan\source\repos\Weather\Weather\bin\Debug\net8.0\Weather.dll
+C:\Users\Jan\source\repos\Weather\Weather\bin\Debug\net8.0\Weather.pdb
+C:\Users\Jan\source\repos\Weather\Weather\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.csproj.AssemblyReference.cache
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.csproj.CopyComplete
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.dll
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\refint\Weather.dll
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.pdb
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.genruntimeconfig.cache
+C:\Users\Jan\source\repos\Weather\Weather\obj\Debug\net8.0\ref\Weather.dll
