@@ -12,7 +12,7 @@ class Program
 
         Console.Clear();
 
-        string apiKey = "e107763b2bcc8768af7873bba32f8477";
+        string apiKey = "apikeyhere";
 
             using (HttpClient client = new HttpClient())
             {

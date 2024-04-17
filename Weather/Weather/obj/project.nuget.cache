@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ef8PyrYWEy8Ww0+62x5lUMeCrobPt+yYhyj3WoZcCNbX52561X69lXz3YMvJbEgqYnmYCYj0Nv4pX3jlHX7i3Q==",
+  "dgSpecHash": "a/085lou5KuBEwdEnXrrHRd1jQi2STqIOrKZ6UplO9ucz+C9rUS92g99Ngirdq21bT9SfW4uqyX9T4/cdO+TcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jan\\source\\repos\\Weather\\Weather\\Weather.csproj",
+  "projectFilePath": "C:\\Users\\Jan\\git\\openweathermap-API-Output\\Weather\\Weather\\Weather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
